@@ -1,5 +1,3 @@
-## Azure 104 BC = 2216012201 
-
 ### Powershell
 
 ``Install-Module -Name Az -Repository PSGallery -Force``
